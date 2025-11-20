@@ -1,4 +1,4 @@
-# Adaptive-Multi-Resolution-Feature-Fusion
+# Controllable-Continuous Color Editing in Diffusion Model via Color Mapping
 Code release for “[Controllable-Continuous Color Editing in Diffusion Model via Color Mapping]"
 
 
